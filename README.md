@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta es una aplicación de gestión de tareas creada con React y .NET Core. Permite listar, crear, actualizar y eliminar tareas. La aplicación incluye una interfaz de usuario para interactuar con el backend a través de una API REST.
+Esta es una aplicación de gestión de tareas creada con React y .NET Core. Permite listar, crear, actualizar tareas. La aplicación incluye una interfaz de usuario para interactuar con el backend a través de una API REST.
 
 ## Tecnologías Utilizadas
 
